@@ -1,0 +1,19 @@
+{
+  "name": "@mskelton/browserslist-config",
+  "description": "Supported browsers in my projects.",
+  "version": "0.0.0-semantically-released",
+  "author": "Mark Skelton",
+  "license": "ISC",
+  "repository": "github.com:mskelton/browserslist-config",
+  "homepage": "https://github.com/mskelton/browserslist-config#readme",
+  "bugs": {
+    "url": "https://github.com/mskelton/browserslist-config/issues"
+  },
+  "keywords": [
+    "browserslist"
+  ],
+  "main": "index.js",
+  "devDependencies": {
+    "semantic-release": "^17.4.4"
+  }
+}
