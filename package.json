@@ -13,6 +13,9 @@
     "browserslist"
   ],
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "semantic-release": "^17.4.4"
   }
