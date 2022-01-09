@@ -4,7 +4,7 @@
   "version": "0.0.0-semantically-released",
   "author": "Mark Skelton",
   "license": "ISC",
-  "repository": "github.com:mskelton/browserslist-config",
+  "repository": "github:mskelton/browserslist-config",
   "homepage": "https://github.com/mskelton/browserslist-config#readme",
   "bugs": {
     "url": "https://github.com/mskelton/browserslist-config/issues"
@@ -17,6 +17,6 @@
     "access": "public"
   },
   "devDependencies": {
-    "semantic-release": "^17.4.4"
+    "semantic-release": "^18.0.1"
   }
 }
