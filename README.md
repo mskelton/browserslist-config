@@ -8,6 +8,14 @@ Supported browsers in my projects.
 
 ## Installation
 
+### npm
+
+```sh
+npm install -D @mskelton/browserslist-config
+```
+
+### Yarn
+
 ```sh
 yarn add -D @mskelton/browserslist-config
 ```
