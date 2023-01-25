@@ -12,7 +12,14 @@
   "keywords": [
     "browserslist"
   ],
-  "main": "index.js",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "files": [
+    "index.js"
+  ],
   "publishConfig": {
     "access": "public"
   },
